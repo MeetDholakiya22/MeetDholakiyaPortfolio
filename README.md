@@ -1,33 +1,21 @@
 # Meet Dholakiya — React Portfolio
 
-A responsive single-page developer portfolio built with React, Vite and Lucide icons.
+Built with React, Vite and Lucide React.
 
 ## Run locally
 
-1. Install Node.js (LTS).
-2. Extract this ZIP.
-3. Open the extracted folder in VS Code.
-4. Open a terminal in that folder and run:
+1. Install Node.js.
+2. Extract this folder and open it in VS Code.
+3. Run `npm install`.
+4. Run `npm run dev`.
+5. For a production build, run `npm run build`.
 
-```bash
-npm install
-npm run dev
-```
+## Content updated from the latest supplied resume (page 1)
 
-5. Open the local URL printed by Vite (usually http://localhost:5173).
+- Summary: React.js, JavaScript, Dynamics 365 CRM, Dataverse, Fluent UI, TypeScript and familiarity with MERN Stack.
+- Skills: React.js, JavaScript, TypeScript, HTML5, CSS3, Fluent UI; MongoDB, Express.js, React.js, Node.js, API Integration, CRUD Operations; Dynamics 365 CRM, Dataverse, JavaScript Web Resources, Plugins, Custom Workflows, PCF, Power Automate and Business Rules.
+- Experience: Techeunovate, April 2025–Present; Sales Management System (Software Developer).
+- Education: MCA (Darshan University, 2023–25, CGPA 7.00); BCA (R.P. Bhalodia Rajkot, 2020–23, CGPA 6.72); HSC 86%; SSC 85%.
+- Contact: dholakiyameet2@gmail.com; 87587 29578; Rajkot, Gujarat, India.
 
-## Production build
-
-```bash
-npm run build
-npm run preview
-```
-
-## Personalize before publishing
-
-- Confirm whether the Techeunovate role should say "Present" or add an end date.
-- Add your LinkedIn profile URL and GitHub URL if you want those links displayed.
-- Add screenshots and descriptions for any additional projects you have permission to showcase.
-- Replace any content that has changed since the supplied resume.
-
-All experience, skills and education details were based on the supplied resume. No unlisted projects or employment history have been added.
+The PDF shows GitHub and LinkedIn profile labels, but the extracted resume does not expose their destination URLs. Add the actual URLs before linking those icons. The resume lists MERN Stack familiarity/skills; this portfolio does not claim MERN employment or projects that are not in the resume.
